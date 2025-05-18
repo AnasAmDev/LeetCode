@@ -7,4 +7,4 @@ class Solution:
 
         min_number = min(nums)
         max_number = max(nums)
-        return compute_gcd(min_number, max_number) 
+        return compute_gcd(min_number, max_number)
